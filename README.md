@@ -4,7 +4,7 @@
 
 This is an extension for **Paymenter**, allowing merchants to integrate **NowPayments** as a payment gateway. The extension enables customers to pay using **cryptocurrencies** while automating **payment status updates**.
 
-Sign up [here]([https://nowpayments.io](https://account.nowpayments.io/de/create-account?link_id=3682278049&utm_source=affiliate_lk&utm_medium=referral)) if you don't have a NowPayments account.
+Sign up [here](https://nowpayments.io) if you don't have a NowPayments account.
 
 ---
 
